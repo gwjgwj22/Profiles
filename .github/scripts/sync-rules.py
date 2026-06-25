@@ -23,7 +23,7 @@ from pathlib import Path
 # ─── 目录配置 ─────────────────────────────────────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 SURGE_DIR = REPO_ROOT / "Surge" / "RULE-SET"
-QX_DIR = REPO_ROOT / "Quantumult" / "Filter"
+QX_DIR = REPO_ROOT / "Quantumult" / "X" / "Filter"
 CLASH_DIR = REPO_ROOT / "Clash" / "RuleSet"
 SINGBOX_DIR = REPO_ROOT / "sing-box" / "source"
 SYNC_RULES_TXT = REPO_ROOT / ".github" / "scripts" / "sync-rules.txt"

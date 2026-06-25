@@ -135,41 +135,41 @@ Rules/
 
 | 规则 | 订阅地址 |
 |------|----------|
-| Britbox | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Britbox.list` |
-| CBC & Gem | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/CBC_Gem.list` |
-| Canal+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Canal%2B.list` |
-| Crunchyroll | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Crunchyroll.list` |
-| DAZN | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/DAZN.list` |
-| Discovery+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Discovery%2B.list` |
-| Disney+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Disney%2B.list` |
-| Duolingo | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Duolingo.list` |
-| F1 TV | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/F1_TV.list` |
-| HBO GO | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/HBO_GO.list` |
-| HBO Max | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/HBO_Max.list` |
-| KKBOX | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/KKBOX.list` |
-| MEGOGO | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/MEGOGO.list` |
-| MUBI | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/MUBI.list` |
-| Openclash | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Openclash.list` |
-| Paramount+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Paramount%2B.list` |
-| STARZ & STARZPLAY | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/STARZ%26STARZPLAY.list` |
-| Setanta Sports | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Setantasports.list` |
-| Sky CH | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/SkyCH.list` |
-| SkyShowtime | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/SkyShowtime.list` |
-| SkyShowtime+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/SkyShowtime%2B.list` |
-| SSport Plus | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Ssportplus.list` |
-| Star+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Star%2B.list` |
-| Streaming AU | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingAU.list` |
-| Streaming HK | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingHK.list` |
-| Streaming JP | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingJP.list` |
-| Streaming JP1 | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingJP1.list` |
-| Streaming KR | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingKR.list` |
-| Streaming KR1 | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingKR1.list` |
-| Streaming TW | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingTW.list` |
-| Streaming UK | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingUK.list` |
-| Streaming US | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/StreamingUS.list` |
-| Viu | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/Viu.list` |
-| iLook.tv | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/ilook.tv.list` |
-| OneFootball | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/Filter/onefootball.list` |
+| Britbox | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Britbox.list` |
+| CBC & Gem | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/CBC_Gem.list` |
+| Canal+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Canal%2B.list` |
+| Crunchyroll | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Crunchyroll.list` |
+| DAZN | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/DAZN.list` |
+| Discovery+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Discovery%2B.list` |
+| Disney+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Disney%2B.list` |
+| Duolingo | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Duolingo.list` |
+| F1 TV | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/F1_TV.list` |
+| HBO GO | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/HBO_GO.list` |
+| HBO Max | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/HBO_Max.list` |
+| KKBOX | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/KKBOX.list` |
+| MEGOGO | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/MEGOGO.list` |
+| MUBI | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/MUBI.list` |
+| Openclash | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Openclash.list` |
+| Paramount+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Paramount%2B.list` |
+| STARZ & STARZPLAY | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/STARZ%26STARZPLAY.list` |
+| Setanta Sports | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Setantasports.list` |
+| Sky CH | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/SkyCH.list` |
+| SkyShowtime | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/SkyShowtime.list` |
+| SkyShowtime+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/SkyShowtime%2B.list` |
+| SSport Plus | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Ssportplus.list` |
+| Star+ | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Star%2B.list` |
+| Streaming AU | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingAU.list` |
+| Streaming HK | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingHK.list` |
+| Streaming JP | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingJP.list` |
+| Streaming JP1 | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingJP1.list` |
+| Streaming KR | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingKR.list` |
+| Streaming KR1 | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingKR1.list` |
+| Streaming TW | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingTW.list` |
+| Streaming UK | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingUK.list` |
+| Streaming US | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/StreamingUS.list` |
+| Viu | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/Viu.list` |
+| iLook.tv | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/ilook.tv.list` |
+| OneFootball | `https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/onefootball.list` |
 
 ### sing-box
 
@@ -190,6 +190,6 @@ Rules/
 
 | Workflow | 触发条件 | 生成内容 |
 |----------|----------|----------|
-| Sync Rules | `Surge/RULE-SET/` 有改动，或每天 UTC 16:00 | `Clash/RuleSet/*.yaml`、`Quantumult/Filter/*.list`、`sing-box/` |
+| Sync Rules | `Surge/RULE-SET/` 有改动，或每天 UTC 16:00 | `Clash/RuleSet/*.yaml`、`Quantumult/X/Filter/*.list`、`sing-box/` |
 | Sync Config | `Surge/Profile.conf` 有改动 | `Clash/Sample.yaml`、`Quantumult/Sample.conf`、`Surge/Balloon.lcf`、`Surge/Surfboard.conf` |
 | Sync Modules | `Surge/Module/` 有改动，或每天 UTC 16:00 | `Surge/Module/BlockAds.sgmodule` |
