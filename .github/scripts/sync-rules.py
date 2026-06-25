@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
+# trigger: 2026-06-25
 """
 Surge RULE-SET 同步脚本
 
