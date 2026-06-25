@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   sync:
@@ -70,14 +70,13 @@ jobs:
           curl -sS -w "\nHTTP %{http_code}\n" -o "Loon/Sub.conf" \
             "${BASE}?target=loon&url=${ESUB}&config=${ECFG}" || true
 
-      - name: Commit & push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Surge/Sub.conf Clash/Sub.yaml Quantumult/X/Sub.conf Loon/Sub.conf
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: sync subscription [manual]"
-            git push
-          fi
+      - name: Upload configs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: subscription-configs
+          path: |
+            Surge/Sub.conf
+            Clash/Sub.yaml
+            Quantumult/X/Sub.conf
+            Loon/Sub.conf
+          retention-days: 7
