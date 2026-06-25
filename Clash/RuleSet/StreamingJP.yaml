@@ -1,0 +1,65 @@
+payload:
+  - ﻿# > AbemaTV
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,ameba.jp
+  - DOMAIN-SUFFIX,hayabusa.io
+  - DOMAIN,abematv.akamaized.net
+  - DOMAIN,ds-vod-abematv.akamaized.net
+  - DOMAIN,linear-abematv.akamaized.net
+  - DOMAIN,ds-linear-abematv.akamaized.net
+  - DOMAIN-KEYWORD,abematv.akamaized.net
+
+  # > DMM
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm-extension.com
+
+  # > Hulu / フールー,StreamingJP.list
+  - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,hjholdings.jp
+  - DOMAIN-SUFFIX,hulu.jp
+
+  # > niconico
+  - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+
+  # > TVer
+  - DOMAIN-SUFFIX,tver.jp
+  - DOMAIN,edge.api.brightcove.com
+
+  #TVer
+  ##DOMAIN-KEYWORD,vod-cdn.tver.jp
+  ##DOMAIN-KEYWORD,live-cdn.tver.jp
+  ##
+  - DOMAIN-SUFFIX,tver.jp
+  - DOMAIN-SUFFIX,interactive-circle.jp
+  - DOMAIN-SUFFIX,brightcove.com
+  - DOMAIN-SUFFIX,prod.boltdns.net
+  ##
+  - DOMAIN-SUFFIX,reproio.com
+  - DOMAIN-SUFFIX,streaks.jp
+  - DOMAIN-SUFFIX,socdm.com
+
+  ##TVer要补充这几个规则
+
+  - DOMAIN-SUFFIX,reproio.com
+  - DOMAIN-SUFFIX,streaks.jp
+  - DOMAIN-SUFFIX,socdm.com
+
+  ##前面两条视频流量有需要可以分流出去, 我这能直连
+
+  # > Paravi
+  - DOMAIN-SUFFIX,paravi.jp,Paravi
+
+  # > FOD
+  - DOMAIN-SUFFIX,fujitv.co.jp,FOD
+  - DOMAIN-SUFFIX,stream.ne.jp,FOD
+  - DOMAIN,measure.ic.tver.jp,FOD
+
+  # > U-NEXT
+  - DOMAIN-SUFFIX,unext.jp,U-NEXT
+  - DOMAIN-SUFFIX,nxtv.jp,U-NEXT
+  # DOMAIN,streamd01ca-nxtv-jp.akamaized.net,U-NEXT,StreamingJP.list
+  - DOMAIN,us-central1-u-next-apps.cloudfunctions.net,U-NEXT

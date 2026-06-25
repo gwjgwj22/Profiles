@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "152vod-adaptive.akamaized.net",
+        "87vod-adaptive.akamaized.net",
+        "aka01p.akamaized.net",
+        "aka02p.akamaized.net",
+        "akamaiendpoint-applemediaservice-aase.streaming.media.azure.net",
+        "applemediaservice.keydelivery.southeastasia.media.azure.net",
+        "asiaplay-origin.s3.amazonaws.com",
+        "d3c7rimkq79yfu.cloudfront.net",
+        "gamer-cds.cdn.hinet.net",
+        "gamer2-cds.cdn.hinet.net",
+        "hamifans.emome.net",
+        "kktv-theater.kk.stream",
+        "litvfreemobile-hichannel.cdn.hinet.net",
+        "ols-ww000-cp.akamaized.net",
+        "ols-ww100-cp.akamaized.net",
+        "tra-ww000-cp.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "appier.net",
+        "bahamut.com.tw",
+        "bitmovin.com",
+        "catch.net.tw",
+        "catchplay.com",
+        "friday.tw",
+        "fridaylogger.com",
+        "gamer.com.tw",
+        "giloo.ist",
+        "hinet.net",
+        "ipapi.co",
+        "kfs.io",
+        "kkbox.com",
+        "kkbox.com.tw",
+        "kktv.com.tw",
+        "kktv.me",
+        "linetv.tw",
+        "litv.tv",
+        "myvideo.net.tw",
+        "qgraph.io",
+        "quantumgraph.com",
+        "skyking.com.tw",
+        "vimeo.com",
+        "vimeocdn.com"
+      ]
+    }
+  ]
+}

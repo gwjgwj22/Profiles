@@ -1,0 +1,38 @@
+USER-AGENT,All4*,StreamingUK
+DOMAIN-SUFFIX,c4assets.com,StreamingUK
+DOMAIN-SUFFIX,channel4.com,StreamingUK
+
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,StreamingUK
+DOMAIN-SUFFIX,bbc.co.uk,StreamingUK
+DOMAIN-SUFFIX,bbci.co.uk,StreamingUK
+DOMAIN-KEYWORD,bbcfmt,StreamingUK
+DOMAIN-KEYWORD,uk-live,StreamingUK
+
+# > ITV
+USER-AGENT,ITV_Player*,StreamingUK
+DOMAIN-SUFFIX,itv.com,StreamingUK
+DOMAIN-SUFFIX,itvstatic.com,StreamingUK
+DOMAIN,itvpnpmobile-a.akamaihd.net,StreamingUK
+
+# > My5
+USER-AGENT,My5*,StreamingUK
+DOMAIN-SUFFIX,channel5.com,StreamingUK
+DOMAIN-SUFFIX,my5.tv,StreamingUK
+DOMAIN,d349g9zuie06uo.cloudfront.net,StreamingUK
+
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,StreamingUK
+DOMAIN-KEYWORD,bbcfmt,StreamingUK
+DOMAIN-KEYWORD,co.uk,StreamingUK
+DOMAIN-KEYWORD,uk-live,StreamingUK
+DOMAIN-SUFFIX,bbc.com,StreamingUK
+DOMAIN-SUFFIX,bbc.co,StreamingUK
+DOMAIN-SUFFIX,bbc.co.uk,StreamingUK
+DOMAIN-SUFFIX,bbci.co,StreamingUK
+DOMAIN-SUFFIX,bbci.co.uk,StreamingUK
+DOMAIN,ssl-bbcsmarttv.2cnt.net,StreamingUK
+DOMAIN,vod-dash-uk-live.akamaized.net,StreamingUK
+DOMAIN,vod-thumb-uk-live.akamaized.net,StreamingUK
+DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net,StreamingUK
+DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net,StreamingUK

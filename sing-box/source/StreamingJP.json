@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "abematv.akamaized.net",
+        "ds-linear-abematv.akamaized.net",
+        "ds-vod-abematv.akamaized.net",
+        "edge.api.brightcove.com",
+        "linear-abematv.akamaized.net",
+        "measure.ic.tver.jp",
+        "us-central1-u-next-apps.cloudfunctions.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "abema.io",
+        "abema.tv",
+        "ameba.jp",
+        "brightcove.com",
+        "dmc.nico",
+        "dmm-extension.com",
+        "dmm.co.jp",
+        "dmm.com",
+        "fujitv.co.jp",
+        "happyon.jp",
+        "hayabusa.io",
+        "hjholdings.jp",
+        "hulu.jp",
+        "interactive-circle.jp",
+        "nicovideo.jp",
+        "nimg.jp",
+        "nxtv.jp",
+        "paravi.jp",
+        "prod.boltdns.net",
+        "reproio.com",
+        "socdm.com",
+        "streaks.jp",
+        "stream.ne.jp",
+        "tver.jp",
+        "unext.jp"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "abematv.akamaized.net"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+USER-AGENT,AbemaTV*,StreamingJP
+DOMAIN-SUFFIX,abema.io,StreamingJP
+DOMAIN-SUFFIX,abema.tv,StreamingJP
+DOMAIN-SUFFIX,ameba.jp,StreamingJP
+DOMAIN-SUFFIX,hayabusa.io,StreamingJP
+DOMAIN,abematv.akamaized.net,StreamingJP
+DOMAIN,ds-vod-abematv.akamaized.net,StreamingJP
+DOMAIN,linear-abematv.akamaized.net,StreamingJP
+DOMAIN,ds-linear-abematv.akamaized.net,StreamingJP
+DOMAIN-KEYWORD,abematv.akamaized.net,StreamingJP
+
+# > DMM
+DOMAIN-SUFFIX,dmm.co.jp,StreamingJP
+DOMAIN-SUFFIX,dmm.com,StreamingJP
+DOMAIN-SUFFIX,dmm-extension.com,StreamingJP
+
+# > Hulu / フールー,StreamingJP.list
+DOMAIN-SUFFIX,happyon.jp,StreamingJP
+DOMAIN-SUFFIX,hjholdings.jp,StreamingJP
+DOMAIN-SUFFIX,hulu.jp,StreamingJP
+
+# > niconico
+USER-AGENT,Niconico*,StreamingJP
+DOMAIN-SUFFIX,dmc.nico,StreamingJP
+DOMAIN-SUFFIX,nicovideo.jp,StreamingJP
+DOMAIN-SUFFIX,nimg.jp,StreamingJP
+
+# > TVer
+USER-AGENT,TVer-Release*,StreamingJP
+DOMAIN-SUFFIX,tver.jp,StreamingJP
+DOMAIN,edge.api.brightcove.com,StreamingJP
+
+#TVer
+##DOMAIN-KEYWORD,vod-cdn.tver.jp
+##DOMAIN-KEYWORD,live-cdn.tver.jp
+##
+DOMAIN-SUFFIX,tver.jp,StreamingJP
+DOMAIN-SUFFIX,interactive-circle.jp,StreamingJP
+DOMAIN-SUFFIX,brightcove.com,StreamingJP
+DOMAIN-SUFFIX,prod.boltdns.net,StreamingJP
+##
+DOMAIN-SUFFIX,reproio.com,StreamingJP
+DOMAIN-SUFFIX,streaks.jp,StreamingJP
+DOMAIN-SUFFIX,socdm.com,StreamingJP
+
+##TVer要补充这几个规则
+
+DOMAIN-SUFFIX,reproio.com,StreamingJP
+DOMAIN-SUFFIX,streaks.jp,StreamingJP
+DOMAIN-SUFFIX,socdm.com,StreamingJP
+
+##前面两条视频流量有需要可以分流出去, 我这能直连
+
+# > Paravi
+USER-AGENT,Paravi*,StreamingJP
+DOMAIN-SUFFIX,paravi.jp,StreamingJP
+
+# > FOD
+USER-AGENT,FOD*,StreamingJP
+DOMAIN-SUFFIX,fujitv.co.jp,StreamingJP
+DOMAIN-SUFFIX,stream.ne.jp,StreamingJP
+DOMAIN,measure.ic.tver.jp,StreamingJP
+
+# > U-NEXT
+DOMAIN-SUFFIX,unext.jp,StreamingJP
+DOMAIN-SUFFIX,nxtv.jp,StreamingJP
+# DOMAIN,streamd01ca-nxtv-jp.akamaized.net,U-NEXT,StreamingJP.list
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,StreamingJP

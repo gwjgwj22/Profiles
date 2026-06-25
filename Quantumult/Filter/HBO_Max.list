@@ -1,0 +1,6 @@
+USER-AGENT,HBOMAX*,HBO_Max
+DOMAIN-SUFFIX,hbo.com,HBO_Max
+# DOMAIN-SUFFIX,hbogo.com,HBO MAX
+DOMAIN-SUFFIX,hbonow.com,HBO_Max
+DOMAIN-SUFFIX,hbomax.com,HBO_Max
+DOMAIN-SUFFIX,hbomaxcdn.com,HBO_Max

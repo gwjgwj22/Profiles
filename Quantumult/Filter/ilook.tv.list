@@ -1,0 +1,17 @@
+- IP-CIDR,194.59.155.0/24,ilook.tv
+- IP-CIDR,213.183.40.0/24,ilook.tv
+- IP-CIDR,213.183.42.0/24,ilook.tv
+- IP-CIDR,213.183.47.0/24,ilook.tv
+- IP-CIDR,5.182.228.0/24,ilook.tv
+- IP-CIDR,5.182.229.0/24,ilook.tv
+- IP-CIDR,5.182.231.0/24,ilook.tv
+- IP-CIDR,5.188.172.0/24,ilook.tv
+- IP-CIDR,77.72.19.0/24,ilook.tv
+- IP-CIDR,77.72.23.0/24,ilook.tv
+- IP-CIDR,92.119.88.0/24,ilook.tv
+- IP-CIDR,92.119.89.0/24,ilook.tv
+- IP-CIDR,93.189.56.0/24,ilook.tv
+- DOMAIN-SUFFIX,akciatv.ru,ilook.tv
+- DOMAIN-SUFFIX,russtv.net,ilook.tv
+- DOMAIN-SUFFIX,zatikov.net,ilook.tv
+- DOMAIN-KEYWORD,russtv,ilook.tv

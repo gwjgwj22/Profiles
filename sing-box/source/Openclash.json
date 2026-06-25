@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "ntp.msn.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "msftncsi.com"
+      ]
+    }
+  ]
+}

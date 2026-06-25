@@ -1,0 +1,64 @@
+DOMAIN,7plus.com.au,StreamingAU
+DOMAIN,npc-live-sevennetwork.akamaized.net,StreamingAU
+DOMAIN,7plus-sevennetwork.akamaized.net,StreamingAU
+DOMAIN,seven.demdex.net,StreamingAU
+DOMAIN,cdn.7livecloud.io,StreamingAU
+
+# NAME: 9 now
+DOMAIN,nine.com.au,StreamingAU
+DOMAIN,9now.com.au,StreamingAU
+DOMAIN,edge.api.brightcove.com,StreamingAU
+DOMAIN,p-9now.akamaized.net,StreamingAU
+DOMAIN,9now-livestreams.akamaized.net,StreamingAU
+DOMAIN-SUFFIX,9cdn.net,StreamingAU
+DOMAIN-SUFFIX,9nation.com.au,StreamingAU
+DOMAIN-SUFFIX,9news.com.au,StreamingAU
+DOMAIN-SUFFIX,9now.com.au,StreamingAU
+DOMAIN-SUFFIX,freeviewplus.net.au,StreamingAU
+DOMAIN-SUFFIX,mi9.com.au,StreamingAU
+DOMAIN-SUFFIX,mi9cdn.com,StreamingAU
+DOMAIN-SUFFIX,nine.com.au,StreamingAU
+DOMAIN-SUFFIX,nineentertainment.com.au,StreamingAU
+DOMAIN-SUFFIX,nineentertainmentco.com.au,StreamingAU
+DOMAIN-SUFFIX,ninemediaroom.com.au,StreamingAU
+DOMAIN-SUFFIX,ninemsn.com.au,StreamingAU
+DOMAIN-SUFFIX,static9.net.au,StreamingAU
+DOMAIN-SUFFIX,yourtv.com.au,StreamingAU
+
+# NAME: 10 play
+DOMAIN-SUFFIX,10play.com.au,StreamingAU
+DOMAIN-SUFFIX,global.ssl.fastly.net,StreamingAU
+DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com,StreamingAU
+DOMAIN,net10-livestream-keys.play.cbsi.video,StreamingAU
+DOMAIN,net10-livestream.play.cbsi.video,StreamingAU
+DOMAIN,d25m2gzplgnf0.cloudfront.net,StreamingAU
+
+# NAME: ABC
+DOMAIN,abc.net.au,StreamingAU
+DOMAIN,abc-iview-mediapackagestreams-2.akamaized.net,StreamingAU
+
+# NAME: SBS
+DOMAIN-SUFFIX,sbsod.com,StreamingAU
+DOMAIN,sbs.com.au,StreamingAU
+DOMAIN,videocdn-sbs.akamaized.net,StreamingAU
+DOMAIN,sbsvoddai-vh.akamaihd.net,StreamingAU
+DOMAIN,sbsvodns-vh.akamaihd.net,StreamingAU
+DOMAIN,sbs-live-dai.akamaized.net,StreamingAU
+DOMAIN,sbs-live.akamaized.net,StreamingAU
+DOMAIN,sbs-live-dai.akamaized.net,StreamingAU
+
+# NAME: Stan
+DOMAIN,streamcoimg-a.akamaihd.net,StreamingAU
+DOMAIN-SUFFIX,stan.com.au,StreamingAU
+DOMAIN-SUFFIX,stan.video,StreamingAU
+DOMAIN-KEYWORD,stan,StreamingAU
+DOMAIN-SUFFIX,tan.com.au,StreamingAU
+
+# NAME: Optus
+DOMAIN-SUFFIX,optus.com.au,StreamingAU
+DOMAIN-SUFFIX,optussport.tv,StreamingAU
+
+# NAME: Others
+DOMAIN-SUFFIX,com.au,StreamingAU
+DOMAIN-SUFFIX,mjh.nz,StreamingAU
+DOMAIN-SUFFIX,au,StreamingAU

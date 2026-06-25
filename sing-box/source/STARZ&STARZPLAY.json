@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "analytics.starz.com",
+        "auth-ios.starz.com",
+        "auth.starz.com",
+        "mecdn2.starz.com",
+        "mecdn8.starz.com",
+        "playauthcontent.starz.com",
+        "playdata.starz.com",
+        "starz.com"
+      ]
+    }
+  ]
+}

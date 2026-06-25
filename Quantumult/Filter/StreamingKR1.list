@@ -1,0 +1,39 @@
+DOMAIN-SUFFIX,watcha.team,StreamingKR1
+DOMAIN-SUFFIX,watcha.com,StreamingKR1
+DOMAIN-SUFFIX,watcha.co.kr,StreamingKR1
+DOMAIN-SUFFIX,watcha.zendesk.com,StreamingKR1
+DOMAIN-SUFFIX,zdassets.com,StreamingKR1
+DOMAIN-SUFFIX,amz.wtchn.net,StreamingKR1
+DOMAIN-SUFFIX,watch-cdn.product.api.espn.com,StreamingKR1
+DOMAIN-KEYWORD,watcha,StreamingKR1
+
+# wavve
+DOMAIN-SUFFIX,apis.pooq.co.kr,StreamingKR1
+DOMAIN-SUFFIX,pooq3-static-json.pooq.co.kr,StreamingKR1
+DOMAIN-SUFFIX,wavve.com,StreamingKR1
+DOMAIN-KEYWORD,wavve,StreamingKR1
+
+# tving
+DOMAIN-SUFFIX,cj.drmkeyserver.com,StreamingKR1
+DOMAIN-SUFFIX,image.pip.cjenm.com,StreamingKR1
+DOMAIN-SUFFIX,hqkoz2vau9.execute-api.ap-northeast-2.amazonaws.com,StreamingKR1
+DOMAIN-SUFFIX,tving.com,StreamingKR1
+DOMAIN-KEYWORD,tving,StreamingKR1
+
+# coupang
+DOMAIN-SUFFIX,coupang.com,StreamingKR1
+DOMAIN-SUFFIX,coupangplay.com,StreamingKR1
+DOMAIN-KEYWORD,coupang,StreamingKR1
+
+# naver
+DOMAIN-SUFFIX,naver.com,StreamingKR1
+DOMAIN-SUFFIX,smartmediarep.com,StreamingKR1
+
+# afreecatv
+DOMAIN-SUFFIX,afreecatv.com,StreamingKR1
+DOMAIN-KEYWORD,afreeca,StreamingKR1
+DOMAIN-KEYWORD,afreecatv,StreamingKR1
+
+# KBS
+DOMAIN-SUFFIX,vod.kbs.co.kr,StreamingKR1
+DOMAIN-SUFFIX,kbs.co.kr,StreamingKR1

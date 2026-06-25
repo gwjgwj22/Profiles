@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "afreecatv.com",
+        "amz.wtchn.net",
+        "apis.pooq.co.kr",
+        "cj.drmkeyserver.com",
+        "coupang.com",
+        "coupangplay.com",
+        "hqkoz2vau9.execute-api.ap-northeast-2.amazonaws.com",
+        "image.pip.cjenm.com",
+        "kbs.co.kr",
+        "naver.com",
+        "pooq3-static-json.pooq.co.kr",
+        "smartmediarep.com",
+        "tving.com",
+        "vod.kbs.co.kr",
+        "watch-cdn.product.api.espn.com",
+        "watcha.co.kr",
+        "watcha.com",
+        "watcha.team",
+        "watcha.zendesk.com",
+        "wavve.com",
+        "zdassets.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "afreeca",
+        "afreecatv",
+        "coupang",
+        "tving",
+        "watcha",
+        "wavve"
+      ]
+    }
+  ]
+}

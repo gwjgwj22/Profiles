@@ -1,0 +1,12 @@
+payload:
+  - ﻿# > CBC Gem
+  - - DOMAIN-KEYWORD,cbc.ca
+  - - DOMAIN-SUFFIX,canada.ca
+  - - DOMAIN-SUFFIX,radio-canada.ca
+  - - DOMAIN-SUFFIX,cbcrclive-tor.akamaized.net
+  - - DOMAIN-SUFFIX,cbcrclinear-tor.akamaized.net
+
+  - - DOMAIN,link.theplatform.com
+  #电视剧 可串流香港
+  - - DOMAIN-SUFFIX,cbcrcott-gem.akamaized.net
+  - - DOMAIN-SUFFIX,cbcrcott-gem-key.akamaized.net

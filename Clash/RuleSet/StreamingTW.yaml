@@ -1,0 +1,62 @@
+payload:
+  - ﻿# > Bahamut
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
+
+  # > KKBOX
+  - DOMAIN-SUFFIX,kkbox.com
+  - DOMAIN-SUFFIX,kkbox.com.tw
+  - DOMAIN-SUFFIX,kfs.io
+
+  # > KKTV
+  - DOMAIN-SUFFIX,kktv.com.tw
+  - DOMAIN-SUFFIX,kktv.me
+  - DOMAIN,kktv-theater.kk.stream
+
+  # > LINE TV
+  - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net
+
+  # > LiTV
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+
+  # > 台湾好
+  - DOMAIN-SUFFIX,skyking.com.tw
+  - DOMAIN,hamifans.emome.net
+
+  # > friDay
+  - DOMAIN-SUFFIX,friday.tw
+  - DOMAIN-SUFFIX,fridaylogger.com
+  - DOMAIN,aka01p.akamaized.net
+  - DOMAIN,aka02p.akamaized.net
+
+  # > CATCHPLAY+
+  - DOMAIN-SUFFIX,catchplay.com
+  - DOMAIN,asiaplay-origin.s3.amazonaws.com
+  - DOMAIN,tra-ww000-cp.akamaized.net
+  - DOMAIN,ols-ww000-cp.akamaized.net
+  - DOMAIN,ols-ww100-cp.akamaized.net
+
+  # > myVideo
+  - DOMAIN-SUFFIX,myvideo.net.tw
+  - DOMAIN-SUFFIX,catch.net.tw
+  - DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
+  - DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
+
+  # > giloo
+  - DOMAIN-SUFFIX,giloo.ist
+  - DOMAIN-SUFFIX,vimeocdn.com
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-SUFFIX,quantumgraph.com
+  - DOMAIN-SUFFIX,bitmovin.com
+  - DOMAIN-SUFFIX,appier.net
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,qgraph.io
+  - DOMAIN,87vod-adaptive.akamaized.net
+  - DOMAIN,152vod-adaptive.akamaized.net
+
+  # > hamivideo
+  - DOMAIN-SUFFIX,hinet.net

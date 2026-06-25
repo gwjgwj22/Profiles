@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "bcbolt446c5271-a.akamaihd.net",
+        "edge.api.brightcove.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dice-live-eu.akamaized.net",
+        "dve-streams.akamaized.net",
+        "encoretvb.com",
+        "mytvsuper.com",
+        "tvb.com"
+      ]
+    }
+  ]
+}

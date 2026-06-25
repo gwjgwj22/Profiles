@@ -1,0 +1,71 @@
+USER-AGENT,Anime*,StreamingTW
+DOMAIN-SUFFIX,bahamut.com.tw,StreamingTW
+DOMAIN-SUFFIX,gamer.com.tw,StreamingTW
+DOMAIN,gamer-cds.cdn.hinet.net,StreamingTW
+DOMAIN,gamer2-cds.cdn.hinet.net,StreamingTW
+
+# > KKBOX
+USER-AGENT,*KKBOX,StreamingTW
+DOMAIN-SUFFIX,kkbox.com,StreamingTW
+DOMAIN-SUFFIX,kkbox.com.tw,StreamingTW
+DOMAIN-SUFFIX,kfs.io,StreamingTW
+
+# > KKTV
+USER-AGENT,KKTV*,StreamingTW
+USER-AGENT,com.kktv.ios.kktv*,StreamingTW
+DOMAIN-SUFFIX,kktv.com.tw,StreamingTW
+DOMAIN-SUFFIX,kktv.me,StreamingTW
+DOMAIN,kktv-theater.kk.stream,StreamingTW
+
+# > LINE TV
+USER-AGENT,LINE%20TV*,StreamingTW
+DOMAIN-SUFFIX,linetv.tw,StreamingTW
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,StreamingTW
+
+# > LiTV
+DOMAIN-SUFFIX,litv.tv,StreamingTW
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,StreamingTW
+
+# > 台湾好
+USER-AGENT,TaiwanGood*,StreamingTW
+DOMAIN-SUFFIX,skyking.com.tw,StreamingTW
+DOMAIN,hamifans.emome.net,StreamingTW
+
+# > friDay
+USER-AGENT,friDay*,StreamingTW
+DOMAIN-SUFFIX,friday.tw,StreamingTW
+DOMAIN-SUFFIX,fridaylogger.com,StreamingTW
+DOMAIN,aka01p.akamaized.net,StreamingTW
+DOMAIN,aka02p.akamaized.net,StreamingTW
+
+# > CATCHPLAY+
+USER-AGENT,CATCHPLAY*,StreamingTW
+DOMAIN-SUFFIX,catchplay.com,StreamingTW
+DOMAIN,asiaplay-origin.s3.amazonaws.com,StreamingTW
+DOMAIN,tra-ww000-cp.akamaized.net,StreamingTW
+DOMAIN,ols-ww000-cp.akamaized.net,StreamingTW
+DOMAIN,ols-ww100-cp.akamaized.net,StreamingTW
+
+# > myVideo
+USER-AGENT,myVideo*,StreamingTW
+DOMAIN-SUFFIX,myvideo.net.tw,StreamingTW
+DOMAIN-SUFFIX,catch.net.tw,StreamingTW
+DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net,StreamingTW
+DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net,StreamingTW
+
+# > giloo
+USER-AGENT,giloo*,StreamingTW
+DOMAIN-SUFFIX,giloo.ist,StreamingTW
+DOMAIN-SUFFIX,vimeocdn.com,StreamingTW
+DOMAIN-SUFFIX,vimeo.com,StreamingTW
+DOMAIN-SUFFIX,quantumgraph.com,StreamingTW
+DOMAIN-SUFFIX,bitmovin.com,StreamingTW
+DOMAIN-SUFFIX,appier.net,StreamingTW
+DOMAIN-SUFFIX,ipapi.co,StreamingTW
+DOMAIN-SUFFIX,qgraph.io,StreamingTW
+DOMAIN,87vod-adaptive.akamaized.net,StreamingTW
+DOMAIN,152vod-adaptive.akamaized.net,StreamingTW
+
+# > hamivideo
+USER-AGENT,hamivideo*,StreamingTW
+DOMAIN-SUFFIX,hinet.net,StreamingTW

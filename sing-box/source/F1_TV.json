@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "f1prodlive.akamaized.net",
+        "f1tv.formula1.com"
+      ]
+    }
+  ]
+}

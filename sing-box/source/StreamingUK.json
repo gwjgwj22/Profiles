@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "d349g9zuie06uo.cloudfront.net",
+        "itvpnpmobile-a.akamaihd.net",
+        "ssl-bbcsmarttv.2cnt.net",
+        "vod-dash-uk-live.akamaized.net",
+        "vod-dash-uk-live.bbcfmt.hs.llnwd.net",
+        "vod-thumb-uk-live.akamaized.net",
+        "vod-thumb-uk-live.bbcfmt.hs.llnwd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bbc.co",
+        "bbc.co.uk",
+        "bbc.com",
+        "bbci.co",
+        "bbci.co.uk",
+        "c4assets.com",
+        "channel4.com",
+        "channel5.com",
+        "itv.com",
+        "itvstatic.com",
+        "my5.tv"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "bbcfmt",
+        "co.uk",
+        "uk-live"
+      ]
+    }
+  ]
+}

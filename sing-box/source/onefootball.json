@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "onefootball.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "onefootball"
+      ]
+    }
+  ]
+}

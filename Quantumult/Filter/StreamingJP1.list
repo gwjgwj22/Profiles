@@ -1,0 +1,150 @@
+DOMAIN-SUFFIX,abema-tv.com,StreamingJP1
+DOMAIN-SUFFIX,abema.io,StreamingJP1
+DOMAIN-SUFFIX,abema.tv,StreamingJP1
+DOMAIN-SUFFIX,abematv.akamaized.net,StreamingJP1
+DOMAIN-SUFFIX,adx.promo,StreamingJP1
+DOMAIN-SUFFIX,ameba.jp,StreamingJP1
+DOMAIN-SUFFIX,amebame.com,StreamingJP1
+DOMAIN-SUFFIX,amebaownd.com,StreamingJP1
+DOMAIN-SUFFIX,amebaowndme.com,StreamingJP1
+DOMAIN-SUFFIX,ameblo.jp,StreamingJP1
+DOMAIN-SUFFIX,bucketeer.jp,StreamingJP1
+DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net,StreamingJP1
+DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net,StreamingJP1
+DOMAIN-SUFFIX,dokusho-ojikan.jp,StreamingJP1
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net,StreamingJP1
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net,StreamingJP1
+DOMAIN-SUFFIX,hayabusa.dev,StreamingJP1
+DOMAIN-SUFFIX,hayabusa.io,StreamingJP1
+DOMAIN-SUFFIX,hayabusa.media,StreamingJP1
+DOMAIN-SUFFIX,linear-abematv.akamaized.net,StreamingJP1
+DOMAIN-SUFFIX,vod-abematv.akamaized.net,StreamingJP1
+DOMAIN-SUFFIX,winticket.jp,StreamingJP1
+DOMAIN-KEYWORD,abematv.akamaized.net,StreamingJP1
+
+# NAME: Niconico
+DOMAIN-SUFFIX,dmc.nico,StreamingJP1
+DOMAIN-SUFFIX,nicodic.jp,StreamingJP1
+DOMAIN-SUFFIX,nicomanga.jp,StreamingJP1
+DOMAIN-SUFFIX,niconico.com,StreamingJP1
+DOMAIN-SUFFIX,nicoseiga.jp,StreamingJP1
+DOMAIN-SUFFIX,nicovideo.jp,StreamingJP1
+DOMAIN-SUFFIX,nimg.jp,StreamingJP1
+DOMAIN-SUFFIX,simg.jp,StreamingJP1
+DOMAIN-SUFFIX,socdm.com,StreamingJP1
+
+# NAME: DMM
+DOMAIN-SUFFIX,akabeesoft2.com,StreamingJP1
+DOMAIN-SUFFIX,akabeesoft3.com,StreamingJP1
+DOMAIN-SUFFIX,akatsukiworks.com,StreamingJP1
+DOMAIN-SUFFIX,alicesoft.com,StreamingJP1
+DOMAIN-SUFFIX,api-p.videomarket.jp,StreamingJP1
+DOMAIN-SUFFIX,cosmiccute.com,StreamingJP1
+DOMAIN-SUFFIX,ddo.jp,StreamingJP1
+DOMAIN-SUFFIX,dmm-extension.com,StreamingJP1
+DOMAIN-SUFFIX,dmm.co.jp,StreamingJP1
+DOMAIN-SUFFIX,dmm.com,StreamingJP1
+DOMAIN-SUFFIX,dmm.hk,StreamingJP1
+DOMAIN-SUFFIX,dmmapis.com,StreamingJP1
+DOMAIN-SUFFIX,dmmrex.com,StreamingJP1
+DOMAIN-SUFFIX,hibiki-site.com,StreamingJP1
+DOMAIN-SUFFIX,minori.ph,StreamingJP1
+DOMAIN-SUFFIX,navismithapis-cdn.com,StreamingJP1
+DOMAIN-SUFFIX,tenco.cc,StreamingJP1
+DOMAIN-SUFFIX,wheel-soft.com,StreamingJP1
+IP-CIDR,125.6.189.7/32,StreamingJP1,no-resolve
+IP-CIDR,203.104.209.7/32,StreamingJP1,no-resolve
+
+# NAME: music.jp
+DOMAIN-SUFFIX,music.jp,StreamingJP1
+DOMAIN-SUFFIX,music-book.jp,StreamingJP1
+
+# NAME: paravi
+DOMAIN-SUFFIX,paravi.jp,StreamingJP1
+DOMAIN-KEYWORD,paravi,StreamingJP1
+
+# NAME: telasa
+DOMAIN-SUFFIX,videopass.jp,StreamingJP1
+DOMAIN-SUFFIX,d2lmsumy47c8as.cloudfront.net,StreamingJP1
+DOMAIN-SUFFIX,api-videopass-anon.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,theater.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,api-payment.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,api-videopass.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,api-videopass-playback.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,showroom.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,cf-assets.synapse-kddi.net,StreamingJP1
+DOMAIN-SUFFIX,image-cf.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,api-videopass-login.kddi-video.com,StreamingJP1
+DOMAIN-SUFFIX,api.reproio.com,StreamingJP1
+DOMAIN-SUFFIX,telasa.jp,StreamingJP1
+DOMAIN-KEYWORD,telasa,StreamingJP1
+
+# NAME: U-NEXT
+DOMAIN-SUFFIX,unext.jp,StreamingJP1
+DOMAIN-SUFFIX,nxtv.jp,StreamingJP1
+DOMAIN-KEYWORD,unext,StreamingJP1
+
+# NAME: TVer
+DOMAIN-SUFFIX,dogatch.jp,StreamingJP1
+DOMAIN-SUFFIX,edge.api.brightcove.com,StreamingJP1
+DOMAIN-SUFFIX,gorin.jp,StreamingJP1
+DOMAIN-SUFFIX,screens-lab.jp,StreamingJP1
+DOMAIN-SUFFIX,tver.co.jp,StreamingJP1
+DOMAIN-SUFFIX,tver.jp,StreamingJP1
+DOMAIN-SUFFIX,players.brightcove.net,StreamingJP1
+DOMAIN-KEYWORD,TVer,StreamingJP1
+
+# NAME: GYAO！
+DOMAIN-SUFFIX,gyao.yahoo.co.jp,StreamingJP1
+DOMAIN-KEYWORD,gyao,StreamingJP1
+
+# NAME: WOWOW
+DOMAIN-SUFFIX,wowow.co.jp,StreamingJP1
+DOMAIN-KEYWORD,wowow,StreamingJP1
+
+# NAME: videomarket
+DOMAIN-SUFFIX,videomarket.jp,StreamingJP1
+DOMAIN-KEYWORD,videomarket,StreamingJP1
+
+# NAME: radiko
+DOMAIN-SUFFIX,radiko.jp,StreamingJP1
+DOMAIN-SUFFIX,radionikkei.jp,StreamingJP1
+DOMAIN-SUFFIX,smartstream.ne.jp,StreamingJP1
+DOMAIN-KEYWORD,radiko,StreamingJP1
+
+# NAME: FOD
+DOMAIN-SUFFIX,geocontrol1.stream.ne.jp,StreamingJP1
+DOMAIN-SUFFIX,fod.azurewebsites.net,StreamingJP1
+DOMAIN-SUFFIX,movie-api.infuse.im,StreamingJP1
+DOMAIN-SUFFIX,fujitvfod.silveregg.net,StreamingJP1
+DOMAIN-SUFFIX,tokyo.in.treasuredata.com,StreamingJP1
+DOMAIN-SUFFIX,fujitv.co.jp,StreamingJP1
+DOMAIN-SUFFIX,stream.ne.jp,StreamingJP1
+DOMAIN,measure.ic.tver.jp,StreamingJP1
+
+# NAME: HuluJP
+DOMAIN-SUFFIX,prod.hjholdings.tv,StreamingJP1
+DOMAIN-SUFFIX,hulujp.silveregg.net,StreamingJP1
+DOMAIN-SUFFIX,happyon.jp,StreamingJP1
+DOMAIN-SUFFIX,hjholdings.jp,StreamingJP1
+DOMAIN-SUFFIX,hulu.jp,StreamingJP1
+DOMAIN-SUFFIX,streaks.jp,StreamingJP1
+DOMAIN-SUFFIX,yb.uncn.jp,StreamingJP1
+DOMAIN-KEYWORD,hulujp,StreamingJP1
+
+# NAME: Karaoke@DAM
+DOMAIN-SUFFIX,clubdam.com,StreamingJP1
+DOMAIN-KEYWORD,clubdam,StreamingJP1
+
+# NAME: J:com On Demand
+DOMAIN-SUFFIX,zaq.ne.jp,StreamingJP1
+DOMAIN-SUFFIX,myjcom.jp,StreamingJP1
+DOMAIN-SUFFIX,jcom.co.jp,StreamingJP1
+
+# NAME: Games
+DOMAIN-SUFFIX,cygames.jp,StreamingJP1
+DOMAIN-SUFFIX,cygames.co.jp,StreamingJP1
+DOMAIN-SUFFIX,konosubafd.jp,StreamingJP1
+DOMAIN-SUFFIX,colorfulpalette.org,StreamingJP1
+DOMAIN-SUFFIX,worldflipper.jp,StreamingJP1
+IP-CIDR,203.104.209.0/24,StreamingJP1,no-resolve

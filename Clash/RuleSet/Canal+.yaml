@@ -1,0 +1,10 @@
+payload:
+  - ﻿payload:
+  - - # > Canal+
+  - - DOMAIN-KEYWORD,canal-plus
+  - - DOMAIN-KEYWORD,canalplus
+  - - DOMAIN-SUFFIX,redcdn.pl
+  - - DOMAIN-SUFFIX,cdn-ncplus.pl
+  - - DOMAIN-SUFFIX,repository.certum.pl
+  - - DOMAIN,collect.tealiumiq.com
+  - - DOMAIN-SUFFIX,orange.pl

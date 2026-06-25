@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com",
+        "skyshowtimeuk.data.adobedc.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "skyshowtime.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "skyshowtime"
+      ]
+    },
+    {
+      "process_name": [
+        "com.skyshowtime.skyshowtime.google"
+      ]
+    }
+  ]
+}

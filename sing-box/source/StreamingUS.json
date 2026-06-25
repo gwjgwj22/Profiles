@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "boltshudder1-a.akamaihd.net",
+        "boltsundance1-a.akamaihd.net",
+        "cws-hulu.conviva.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "amcn.com",
+        "amcplus.com",
+        "amcsvod.io",
+        "fox.com",
+        "foxdcg.com",
+        "hulu.com",
+        "hulu.tv",
+        "huluim.com",
+        "hulustream.com",
+        "lion-nba-msl.akamaized.net",
+        "media.starott.com",
+        "nba-api-cdn.opin.media",
+        "nba.com",
+        "nbaapi.neulion.com",
+        "nbanlds19vod.akamaized.net",
+        "nbaprop.sc.omtrdc.net",
+        "neulion-a.akamaihd.net",
+        "neulion.com",
+        "neulionqos-a.akamaihd.net",
+        "nlnbamdnyc-a.akamaihd.net",
+        "nlnbaqos.neulion.com",
+        "pbs.org",
+        "peacocktv.com",
+        "roku.com",
+        "rokutime.com",
+        "sdk.iad-03.braze.com",
+        "shudder.com",
+        "sundancenow.com",
+        "sundancetv.com",
+        "theplatform.com",
+        "uplynk.com",
+        "watchnba.cdnfastly.endeavorstreaming.net"
+      ]
+    }
+  ]
+}

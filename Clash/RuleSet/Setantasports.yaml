@@ -1,0 +1,16 @@
+payload:
+  - ﻿# > Setantasports
+  #DOMAIN-SUFFIX,setantasports.com,Setantasports
+  #DOMAIN-SUFFIX,imggaming.com,Setantasports
+  #DOMAIN-SUFFIX,diceplatform.com,Setantasports
+  #DOMAIN-SUFFIX,dicelaboratory.com,Setantasports
+  #DOMAIN-SUFFIX,pndsn.com,Setantasports
+  #DOMAIN,imggaming.s3-eu-west-1.amazonaws.com,Setantasports
+  #DOMAIN,ux1kpaebv0.execute-api.eu-west-1.amazonaws.com,Setantasports
+  #DOMAIN,1ok961aaca.execute-api.eu-west-1.amazonaws.com,Setantasports
+  #PROCESS-NAME,com.setanta.app,Setantasports
+  #USER-AGENT,setantasports*,Setantasports
+
+  - - USER-AGENT,setantasports*
+  - - DOMAIN-SUFFIX,setantasports.com
+  - - DOMAIN-SUFFIX,imggaming.com
