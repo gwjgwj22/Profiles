@@ -1,0 +1,69 @@
+name: Sync Subscription
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        run: git clone --depth=1 "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" .
+
+      - name: Download subconverter
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download --repo tindy2013/subconverter --pattern "subconverter_linux64.tar.gz" -D /tmp/sc
+          tar -xzf /tmp/sc/subconverter_linux64.tar.gz -C /tmp/sc
+
+      - name: Start subconverter
+        run: |
+          cd /tmp/sc/subconverter && ./subconverter &
+          sleep 2
+
+      - name: Serve config locally
+        run: |
+          python3 -m http.server 8080 --directory "$GITHUB_WORKSPACE" &
+          sleep 1
+
+      - name: Generate configs
+        env:
+          SUB: ${{ secrets.SUBSCRIPTION_URL }}
+        run: |
+          BASE="http://127.0.0.1:25500/sub"
+          CONFIG_URL="http://127.0.0.1:8080/.github/scripts/subconverter/config.ini"
+          ESUB=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1],safe=''))" "$SUB")
+          ECFG=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1],safe=''))" "$CONFIG_URL")
+
+          # Surge
+          curl -fsSL -o "Surge/Sub.conf" \
+            "${BASE}?target=surge&ver=4&udp=1&tfo=1&url=${ESUB}&config=${ECFG}"
+
+          # Clash
+          curl -fsSL -o "Clash/Sub.yaml" \
+            "${BASE}?target=clash&url=${ESUB}&config=${ECFG}"
+
+          # Quantumult X
+          curl -fsSL -o "Quantumult/X/Sub.conf" \
+            "${BASE}?target=quanx&udp=1&tfo=1&url=${ESUB}&config=${ECFG}"
+
+          # Loon
+          mkdir -p Loon
+          curl -fsSL -o "Loon/Sub.conf" \
+            "${BASE}?target=loon&url=${ESUB}&config=${ECFG}"
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Surge/Sub.conf Clash/Sub.yaml Quantumult/X/Sub.conf Loon/Sub.conf
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync subscription [manual]"
+            git push
+          fi
