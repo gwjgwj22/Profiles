@@ -1,5 +1,5 @@
 # Clash
-# Date: 2026-06-27 23:21:46
+# Date: 2026-06-28 00:48:49
 # Author: @egwj
 
 # 通用设置
@@ -467,11 +467,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Clubhouse_1.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
 
   # Area
   - name: "🇭🇰 Hong Kong"
@@ -479,11 +474,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇭🇰|HK|Hong Kong|香港'
 
   - name: "🇨🇳 Taiwan"
@@ -491,11 +481,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Taiwan.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇨🇳|🇹🇼|TW|Taiwan|台湾'
 
   - name: "🇸🇬 Singapore"
@@ -503,11 +488,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇸🇬|SG|Singapore|新加坡'
 
   - name: "🇯🇵 Japan"
@@ -515,11 +495,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇯🇵|JP|Japan|日本'
 
   - name: "🇺🇸 America"
@@ -527,11 +502,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇺🇸|US|United States|美国'
 
   - name: "🇨🇦 Canada"
@@ -539,11 +509,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Canada.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇨🇦|CA|Canada|加拿大'
 
   - name: "🇬🇧 United Kingdom"
@@ -551,11 +516,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_Kingdom.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇬🇧|UK|GB|United Kingdom|Britain|英国'
 
   - name: "🇩🇪 Germany"
@@ -563,11 +523,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Germany.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇩🇪|DE|Germany|德国'
 
   - name: "🇫🇷 France"
@@ -575,11 +530,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/France.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇫🇷|FR|France|法国'
 
   - name: "🇮🇹 Italy"
@@ -587,11 +537,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Europe_Map.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇮🇹|IT|Italy|Italia|意大利'
 
   - name: "🇪🇸 Spain"
@@ -599,11 +544,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Europe_Map.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇪🇸|ES|Spain|西班牙'
 
   - name: "🇵🇹 Portugal"
@@ -611,11 +551,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Europe_Map.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇵🇹|PT|Portugal|葡萄牙'
 
   - name: "🇳🇬 Nigeria"
@@ -623,11 +558,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Africa_Map.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇳🇬|NG|Nigeria|尼日利亚'
 
   - name: "🇰🇷 Korea"
@@ -635,11 +565,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇰🇷|KR|Korea|South Korea|Republic of Korea|韩国'
 
   - name: "🇦🇺 Australia"
@@ -647,11 +572,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Australia.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇦🇺|AU|Australia|澳大利亚|澳洲'
 
   - name: "🇲🇴 Macau"
@@ -659,11 +579,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Macao.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇲🇴|MO|Macao|Macau|澳门'
 
   - name: "🇵🇭 Philippines"
@@ -671,11 +586,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Philippines.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇵🇭|PH|Philippines|菲律宾'
 
   - name: "🇲🇾 Malaysia"
@@ -683,11 +593,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Malaysia.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇲🇾|MY|Malaysia|马来西亚'
 
   - name: "🇹🇭 Thailand"
@@ -695,11 +600,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Thailand.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇹🇭|TH|Thailand|泰国'
 
   - name: "🇧🇷 Brazil"
@@ -707,11 +607,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Brazil.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇧🇷|BR|Brazil|Brasil|巴西'
 
   - name: "🇦🇷 Argentina"
@@ -719,11 +614,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Argentina.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇦🇷|AR|Argentina|阿根廷'
 
   - name: "🇨🇱 Chile"
@@ -731,11 +621,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/LA_Map.png
     use:
       - Server
-      - Degyax
-      - Nexitally
-      - TAG
-      - FlowerCloud
-      - ROR
     filter: '🇨🇱|CL|Chile|智利'
 
   # icon: https:
