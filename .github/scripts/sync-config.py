@@ -23,9 +23,9 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 SYNC_CONFIG_TXT = REPO_ROOT / ".github" / "scripts" / "sync-config.txt"
 
-HOTKIDS_SURGE_PREFIX = "https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/"
-HOTKIDS_CLASH_PREFIX = "https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/"
-HOTKIDS_QX_FILTER_PREFIX = "https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Filter/"
+HOTKIDS_SURGE_PREFIX = "https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/"
+HOTKIDS_CLASH_PREFIX = "https://raw.githubusercontent.com/egwj/Rules/master/Clash/RuleSet/"
+HOTKIDS_QX_FILTER_PREFIX = "https://raw.githubusercontent.com/egwj/Rules/master/Quantumult/X/Filter/"
 
 CLASH_UNSUPPORTED_RULE_TYPES = {"URL-REGEX", "USER-AGENT"}
 # 注释掉的规则中，这些类型在 Clash 里同样不支持，直接丢弃（不入待输出缓冲区）
@@ -1223,7 +1223,7 @@ def _derive_provider_name(
     return name
 
 
-HOTKIDS_RAW_BASE = "https://raw.githubusercontent.com/HotKids/Rules/master/"
+HOTKIDS_RAW_BASE = "https://raw.githubusercontent.com/egwj/Rules/master/"
 
 # Clash 内置 rule-set 首选配置：stem → (repo 内首选远程文件, 本地 path 生成的文件名)
 # 用于某些 rule-set 有多个格式时指定首选远程文件并自定义本地缓存文件名
