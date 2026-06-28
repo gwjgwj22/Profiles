@@ -1,0 +1,6 @@
+payload:
+  # > YouTube
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN-KEYWORD,youtube
