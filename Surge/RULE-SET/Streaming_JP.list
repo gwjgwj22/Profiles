@@ -36,3 +36,131 @@ DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,nxtv.jp
 // DOMAIN,streamd01ca-nxtv-jp.akamaized.net
 DOMAIN,us-central1-u-next-apps.cloudfunctions.net
+
+DOMAIN-SUFFIX,hnext.jp
+
+# > DMM
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+OMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,fout.jp
+DOMAIN-SUFFIX,gmossp-sp.jp
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,i-mobile.co.jp
+DOMAIN-SUFFIX,im-apps.net
+DOMAIN-SUFFIX,impact-ad.jp
+DOMAIN-SUFFIX,ladsp.com
+DOMAIN-SUFFIX,microad.co.jp
+DOMAIN-SUFFIX,microad.jp
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve
+
+
+
+# > Niconico
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-KEYWORD,niconico
+
+# NAME: GYAO！
+DOMAIN-SUFFIX,gyao.yahoo.co.jp
+DOMAIN-KEYWORD,gyao
+
+# NAME: WOWOW
+DOMAIN-SUFFIX,wowow.co.jp
+DOMAIN-KEYWORD,wowow
+
+# NAME: videomarket
+DOMAIN-SUFFIX,videomarket.jp
+DOMAIN-KEYWORD,videomarket
+
+# NAME: radiko
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,radionikkei.jp
+DOMAIN-SUFFIX,smartstream.ne.jp
+DOMAIN-KEYWORD,radiko
+
+# NAME: Karaoke@DAM
+DOMAIN-SUFFIX,clubdam.com
+DOMAIN-KEYWORD,clubdam
+
+# NAME: J:com On Demand
+DOMAIN-SUFFIX,zaq.ne.jp
+DOMAIN-SUFFIX,myjcom.jp
+DOMAIN-SUFFIX,jcom.co.jp
+
+# NAME: Games
+DOMAIN-SUFFIX,colorfulpalette.org
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,konosubafd.jp
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
+DOMAIN-SUFFIX,worldflipper.jp
+IP-CIDR,203.104.209.0/24,no-resolve
+
+# NAME: Rakuten TV
+DOMAIN-SUFFIX,ebates.com
+DOMAIN-SUFFIX,infoseek.co.jp
+DOMAIN-SUFFIX,o50.jp
+DOMAIN-SUFFIX,r10.to
+DOMAIN-SUFFIX,r10s.com
+DOMAIN-SUFFIX,r10s.jp
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,rakuten.ca
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,rakuten.com
+DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.ne.jp
+DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rclon.com
+DOMAIN-SUFFIX,rebates.jp
+DOMAIN-SUFFIX,showtime.co.jp
+DOMAIN-SUFFIX,viber.co.jp
+DOMAIN-SUFFIX,viber.com
+
+# NAME: docomo
+DOMAIN-SUFFIX,beetv.jp
+DOMAIN-SUFFIX,dmkt-sp.jp
+DOMAIN-SUFFIX,docomo.ne.jp
+DOMAIN-SUFFIX,jp.adventurekk.com
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,js.tappaysdk.com
+DOMAIN-SUFFIX,m.stripe.network
+DOMAIN-SUFFIX,ntt.com
+DOMAIN-SUFFIX,nttdocomo.co.jp
+DOMAIN-SUFFIX,co.jp
+DOMAIN-SUFFIX,com.jp
+DOMAIN-KEYWORD,docomo
+DOMAIN-KEYWORD,ntt
+DOMAIN-KEYWORD,softbank
+DOMAIN-KEYWORD,.jp
+
+# 混杂
+DOMAIN-SUFFIX,xn-app1.com
+DOMAIN-SUFFIX,xncd0f6edc4c2e69e1d4bdc89b0a8490ce32c70ef2.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,txnhh.com
+DOMAIN-KEYWORD,xnxx
