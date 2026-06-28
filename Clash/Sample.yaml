@@ -1,5 +1,5 @@
 # Clash
-# Date: 2026-06-28 15:13:25
+# Date: 2026-06-28 15:23:56
 # Author: @egwj
 
 # 通用设置
@@ -387,9 +387,9 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Spotify.png
     proxies:
       - 🔘 DIRECT
+      - 🇵🇭 Philippines
       - 🔰 Proxy
       - 🇭🇰 Hong Kong
-      - 🇵🇭 Philippines
 
   # Google
   # > YouTube
@@ -416,6 +416,7 @@ proxy-groups:
     proxies:
       - 🇺🇸 America
       - 🇸🇬 Singapore
+      - 🇨🇳 Taiwan
       - 🔰 Proxy
 
   # Crypto
