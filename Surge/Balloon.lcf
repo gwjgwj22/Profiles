@@ -1,5 +1,5 @@
 # Loon
-# Date: 2026-06-28 16:59:38
+# Date: 2026-06-28 23:14:49
 # Author: @egwj
 
 [General]
@@ -66,31 +66,31 @@ Sub-UN = NameRegex, FilterKey = "^(?=.+)(?!.*(?i)\b(USE(D)?|TOTAL|EXPIRE|RESET|P
 # Proxy
 🔰 Proxy = select,🇭🇰 Hong Kong,🇨🇳 Taiwan,🇸🇬 Singapore,🇯🇵 Japan,🇺🇸 America,🇨🇦 Canada,🇬🇧 United Kingdom,🇩🇪 Germany,🇫🇷 France,🇮🇹 Italy,🇪🇸 Spain,🇵🇹 Portugal,🇳🇬 Nigeria,🇰🇷 Korea,🇲🇴 Macau,🇦🇺 Australia,🇵🇭 Philippines,🇲🇾 Malaysia,🇹🇭 Thailand,🇧🇷 Brazil,🇦🇷 Argentina,🇨🇱 Chile,🇺🇳 Server,🔘 DIRECT,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/Outbound.png
 # Streaming Global
-🎬 Streaming = select,🔰 Proxy,🇭🇰 Hong Kong,🇨🇳 Taiwan,🇸🇬 Singapore,🇯🇵 Japan,🇺🇸 America,🇺🇳 Server,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Streaming.png
+🎬 Streaming = select,🔘 DIRECT,🔰 Proxy,🇭🇰 Hong Kong,🇨🇳 Taiwan,🇸🇬 Singapore,🇯🇵 Japan,🇺🇸 America,🇺🇳 Server,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Streaming.png
 # CNTV APAC
-📺 CNTV = select,🔘 DIRECT,🇨🇳 Taiwan,🇭🇰 Hong Kong,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/StreamingCN.png
+📺 CNTV = select,🔘 DIRECT,🔰 Proxy,🇨🇳 Taiwan,🇭🇰 Hong Kong,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/StreamingCN.png
 # Apple
 # > Apple TV
 🍏 Apple TV = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
 # > Apple Services
 🍎 Apple = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,🇯🇵 Japan,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
 #Spotify
-🎵 Spotify = select,🔘 DIRECT,🇵🇭 Philippines,🔰 Proxy,🇭🇰 Hong Kong,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+🎵 Spotify = select,🔘 DIRECT,🔰 Proxy,🇵🇭 Philippines,🇭🇰 Hong Kong,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 # Google
 # > YouTube
-🖥 YouTube = select,🔘 DIRECT,🇺🇸 America,🇲🇴 Macau,🔰 Proxy,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/YouTube.png
+🖥 YouTube = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,🇲🇴 Macau,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/YouTube.png
 # > Google All
-🔍 Google = select,🔘 DIRECT,🇺🇸 America,🔰 Proxy,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/Google.png
+🔍 Google = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/Google.png
 # AIGC
-🤖 AIGC = select,🔘 DIRECT,🇺🇸 America,🇸🇬 Singapore,🇨🇳 Taiwan,🔰 Proxy,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
+🤖 AIGC = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,🇸🇬 Singapore,🇨🇳 Taiwan,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
 # Crypto
-🪙 Crypto = select,🇺🇸 America,🇩🇪 Germany,🇫🇷 France,🇵🇭 Philippines,🇳🇬 Nigeria,🇲🇾 Malaysia,🔰 Proxy,🔘 DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cryptocurrency_3.png
+🪙 Crypto = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,🇩🇪 Germany,🇫🇷 France,🇵🇭 Philippines,🇳🇬 Nigeria,🇲🇾 Malaysia,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cryptocurrency_3.png
 # Finance
-💳 Credit = select,🇺🇸 America,🔰 Proxy,🔘 DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
+💳 Credit = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
 # Telegram
-📬 Telegram = select,🔰 Proxy,🇸🇬 Singapore,🔘 DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+📬 Telegram = select,🔘 DIRECT,🔰 Proxy,🇸🇬 Singapore,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
 # Mail
-📧 Mail = select,🔰 Proxy,🔘 DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Mail.png
+📧 Mail = select,🔘 DIRECT,🔰 Proxy,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Mail.png
 # Adblock
 🚧 AdGuard = select,🔘 DIRECT,⛔️ REJECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Clubhouse_2.png
 # Nodes
