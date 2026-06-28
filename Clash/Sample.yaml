@@ -1,5 +1,5 @@
 # Clash
-# Date: 2026-06-28 16:59:38
+# Date: 2026-06-28 23:14:49
 # Author: @egwj
 
 # 通用设置
@@ -353,6 +353,7 @@ proxy-groups:
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Streaming.png
     proxies:
+      - 🔘 DIRECT
       - 🔰 Proxy
       - 🇭🇰 Hong Kong
       - 🇨🇳 Taiwan
@@ -367,6 +368,7 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/HotKids/Rules@master/Quantumult/X/Images/StreamingCN.png
     proxies:
       - 🔘 DIRECT
+      - 🔰 Proxy
       - 🇨🇳 Taiwan
       - 🇭🇰 Hong Kong
 
@@ -387,8 +389,8 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Spotify.png
     proxies:
       - 🔘 DIRECT
-      - 🇵🇭 Philippines
       - 🔰 Proxy
+      - 🇵🇭 Philippines
       - 🇭🇰 Hong Kong
 
   # Google
@@ -398,9 +400,9 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/HotKids/Rules@master/Quantumult/X/Images/Color/YouTube.png
     proxies:
       - 🔘 DIRECT
+      - 🔰 Proxy
       - 🇺🇸 America
       - 🇲🇴 Macau
-      - 🔰 Proxy
 
   # > Google All
   - name: "🔍 Google"
@@ -408,8 +410,8 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/HotKids/Rules@master/Quantumult/X/Images/Color/Google.png
     proxies:
       - 🔘 DIRECT
-      - 🇺🇸 America
       - 🔰 Proxy
+      - 🇺🇸 America
 
   # AIGC
   - name: "🤖 AIGC"
@@ -417,50 +419,50 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/ChatGPT.png
     proxies:
       - 🔘 DIRECT
+      - 🔰 Proxy
       - 🇺🇸 America
       - 🇸🇬 Singapore
       - 🇨🇳 Taiwan
-      - 🔰 Proxy
 
   # Crypto
   - name: "🪙 Crypto"
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Cryptocurrency_3.png
     proxies:
+      - 🔘 DIRECT
+      - 🔰 Proxy
       - 🇺🇸 America
       - 🇩🇪 Germany
       - 🇫🇷 France
       - 🇵🇭 Philippines
       - 🇳🇬 Nigeria
       - 🇲🇾 Malaysia
-      - 🔰 Proxy
-      - 🔘 DIRECT
 
   # Finance
   - name: "💳 Credit"
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/PayPal.png
     proxies:
-      - 🇺🇸 America
-      - 🔰 Proxy
       - 🔘 DIRECT
+      - 🔰 Proxy
+      - 🇺🇸 America
 
   # Telegram
   - name: "📬 Telegram"
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
     proxies:
+      - 🔘 DIRECT
       - 🔰 Proxy
       - 🇸🇬 Singapore
-      - 🔘 DIRECT
 
   # Mail
   - name: "📧 Mail"
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Mail.png
     proxies:
-      - 🔰 Proxy
       - 🔘 DIRECT
+      - 🔰 Proxy
 
   # Adblock
   - name: "🚧 AdGuard"
