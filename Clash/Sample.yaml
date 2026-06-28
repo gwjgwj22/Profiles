@@ -1,5 +1,5 @@
 # Clash
-# Date: 2026-06-28 15:23:56
+# Date: 2026-06-28 16:59:38
 # Author: @egwj
 
 # 通用设置
@@ -397,6 +397,7 @@ proxy-groups:
     type: select
     icon: https://testingcf.jsdelivr.net/gh/HotKids/Rules@master/Quantumult/X/Images/Color/YouTube.png
     proxies:
+      - 🔘 DIRECT
       - 🇺🇸 America
       - 🇲🇴 Macau
       - 🔰 Proxy
@@ -406,6 +407,7 @@ proxy-groups:
     type: select
     icon: https://testingcf.jsdelivr.net/gh/HotKids/Rules@master/Quantumult/X/Images/Color/Google.png
     proxies:
+      - 🔘 DIRECT
       - 🇺🇸 America
       - 🔰 Proxy
 
@@ -414,6 +416,7 @@ proxy-groups:
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/ChatGPT.png
     proxies:
+      - 🔘 DIRECT
       - 🇺🇸 America
       - 🇸🇬 Singapore
       - 🇨🇳 Taiwan

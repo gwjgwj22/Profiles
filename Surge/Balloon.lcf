@@ -1,5 +1,5 @@
 # Loon
-# Date: 2026-06-28 15:23:56
+# Date: 2026-06-28 16:59:38
 # Author: @egwj
 
 [General]
@@ -78,11 +78,11 @@ Sub-UN = NameRegex, FilterKey = "^(?=.+)(?!.*(?i)\b(USE(D)?|TOTAL|EXPIRE|RESET|P
 🎵 Spotify = select,🔘 DIRECT,🇵🇭 Philippines,🔰 Proxy,🇭🇰 Hong Kong,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 # Google
 # > YouTube
-🖥 YouTube = select,🇺🇸 America,🇲🇴 Macau,🔰 Proxy,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/YouTube.png
+🖥 YouTube = select,🔘 DIRECT,🇺🇸 America,🇲🇴 Macau,🔰 Proxy,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/YouTube.png
 # > Google All
-🔍 Google = select,🇺🇸 America,🔰 Proxy,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/Google.png
+🔍 Google = select,🔘 DIRECT,🇺🇸 America,🔰 Proxy,img-url = https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/Google.png
 # AIGC
-🤖 AIGC = select,🇺🇸 America,🇸🇬 Singapore,🇨🇳 Taiwan,🔰 Proxy,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
+🤖 AIGC = select,🔘 DIRECT,🇺🇸 America,🇸🇬 Singapore,🇨🇳 Taiwan,🔰 Proxy,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
 # Crypto
 🪙 Crypto = select,🇺🇸 America,🇩🇪 Germany,🇫🇷 France,🇵🇭 Philippines,🇳🇬 Nigeria,🇲🇾 Malaysia,🔰 Proxy,🔘 DIRECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cryptocurrency_3.png
 # Finance
