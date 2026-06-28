@@ -1,5 +1,5 @@
 # Loon
-# Date: 2026-06-28 23:14:49
+# Date: 2026-06-29 01:10:33
 # Author: @egwj
 
 [General]
@@ -74,7 +74,7 @@ Sub-UN = NameRegex, FilterKey = "^(?=.+)(?!.*(?i)\b(USE(D)?|TOTAL|EXPIRE|RESET|P
 🍏 Apple TV = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
 # > Apple Services
 🍎 Apple = select,🔘 DIRECT,🔰 Proxy,🇺🇸 America,🇯🇵 Japan,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
-#Spotify
+# Spotify
 🎵 Spotify = select,🔘 DIRECT,🔰 Proxy,🇵🇭 Philippines,🇭🇰 Hong Kong,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 # Google
 # > YouTube
@@ -108,7 +108,8 @@ FINAL,🔰 Proxy
 
 [Remote Rule]
 # Unbreak 后续规则修正
-https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/Unbreak.list, policy=🔘 DIRECT, tag=Unbreak, enabled=true
+https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/Bypass.list, policy=🔘 DIRECT, tag=Bypass, enabled=true
+https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/Reroute.list, policy=🔰 Proxy, tag=Reroute, enabled=true
 # Private 私有网络
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/private.txt, policy=🔘 DIRECT, tag=Private, enabled=true
 # HTTPDNS 请求/流量阻止
@@ -143,6 +144,7 @@ https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/CNTV.list, po
 # > AIGC
 https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/Gemini.list, policy=🔍 Google, tag=Gemini, enabled=true
 https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/GenAI.list, policy=🤖 AIGC, tag=GenAI, enabled=true
+https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/Poe.list, policy=🤖 AIGC, tag=Poe, enabled=true
 # > Apple
 # >> iCloud Private Relay
 https://raw.githubusercontent.com/egwj/Rules/master/Surge/RULE-SET/Apple/iCloud.PrivateRelay.list, policy=🔰 Proxy, tag=iCloud Private Relay, enabled=true

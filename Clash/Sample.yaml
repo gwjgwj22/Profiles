@@ -1,5 +1,5 @@
 # Clash
-# Date: 2026-06-28 23:14:49
+# Date: 2026-06-29 01:10:33
 # Author: @egwj
 
 # 通用设置
@@ -296,22 +296,22 @@ proxies: []
 
 # 服务器订阅配置
 proxy-providers:
-  # Server:
-    # type: http
-    # path: ./Provider/Proxy/Server.yaml
-    # url: https://sub.hotkids.me
-    # interval: 3600
-    # proxy: DIRECT
-    # header:
-      # User-Agent:
-      # - "Clash/v1.18.0"
-      # - "mihomo/1.18.3"
-    # health-check:
-      # enable: true
-      # url: https://cp.cloudflare.com/generate_204
-      # interval: 600
-      # timeout: 5000
-      # expected-status: 204
+   Server:
+     type: http
+     path: ./Provider/Proxy/Server.yaml
+     url: https://sub.egwj.me
+     interval: 3600
+     proxy: DIRECT
+     header:
+       User-Agent:
+       - "Clash/v1.18.0"
+       - "mihomo/1.18.3"
+     health-check:
+       enable: true
+       url: https://cp.cloudflare.com/generate_204
+       interval: 600
+       timeout: 5000
+       expected-status: 204
 
 proxy-groups:
   # Global
@@ -383,7 +383,7 @@ proxy-groups:
       - 🇺🇸 America
       - 🇯🇵 Japan
 
-  #Spotify
+  # Spotify
   - name: "🎵 Spotify"
     type: select
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Spotify.png
@@ -661,11 +661,18 @@ rule-providers:
 #   path: # 文件路径
 #   url: # 只有当类型为 HTTP 时才可用，您不需要在本地空间中创建新文件。
 #   interval: # 自动更新间隔，仅在类型为 HTTP 时可用
-  Unbreak:
+  Bypass:
     type: http
     behavior: classical
-    path: ./Provider/RuleSet/Unbreak.yaml
-    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Unbreak.yaml
+    path: ./Provider/RuleSet/Bypass.yaml
+    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Bypass.yaml
+    interval: 86400
+
+  Reroute:
+    type: http
+    behavior: classical
+    path: ./Provider/RuleSet/Reroute.yaml
+    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Reroute.yaml
     interval: 86400
 
   Private:
@@ -766,6 +773,13 @@ rule-providers:
     url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/GenAI.yaml
     interval: 86400
 
+  Poe:
+    type: http
+    behavior: classical
+    path: ./Provider/RuleSet/Poe.yaml
+    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Poe.yaml
+    interval: 86400
+
   Apple CN:
     type: http
     behavior: classical
@@ -822,13 +836,6 @@ rule-providers:
     url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Spark.yaml
     interval: 86400
 
-  Reroute:
-    type: http
-    behavior: classical
-    path: ./Provider/RuleSet/Reroute.yaml
-    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Reroute.yaml
-    interval: 86400
-
   Global:
     type: http
     behavior: domain
@@ -870,7 +877,8 @@ rules:
   - AND,((DST-PORT,22),(NETWORK,TCP)),🔘 DIRECT
 
   # Unbreak 后续规则修正
-  - RULE-SET,Unbreak,🔘 DIRECT
+  - RULE-SET,Bypass,🔘 DIRECT
+  - RULE-SET,Reroute,🔰 Proxy
 
   # Private 私有网络
   - RULE-SET,Private,🔘 DIRECT
@@ -907,6 +915,7 @@ rules:
   # > AIGC
   - RULE-SET,Google AI Studio,🔍 Google
   - RULE-SET,AIGC,🤖 AIGC
+  - RULE-SET,Poe,🤖 AIGC
 
   # > Apple
   # >> Apple Services
