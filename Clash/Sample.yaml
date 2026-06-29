@@ -1,5 +1,5 @@
 # Clash
-# Date: 2026-06-29 12:50:01
+# Date: 2026-06-29 17:55:29
 # Author: @egwj
 
 # 通用设置
@@ -696,11 +696,11 @@ rule-providers:
     url: https://testingcf.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
     interval: 86400
 
-  Bock1:
+  Block:
     type: http
     behavior: classical
-    path: ./Provider/RuleSet/Bock1.yaml
-    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Bock1.yaml
+    path: ./Provider/RuleSet/Block.yaml
+    url: https://testingcf.jsdelivr.net/gh/egwj/Rules@master/Clash/RuleSet/Block.yaml
     interval: 86400
 
   Streaming_TW:
@@ -888,7 +888,7 @@ rules:
 
   # Advertising 广告
   - RULE-SET,Reject,🚧 AdGuard
-  - RULE-SET,Bock1,🚧 AdGuard
+  - RULE-SET,Block,🚧 AdGuard
 
   # Global Area Network
   # > Streaming by Region
